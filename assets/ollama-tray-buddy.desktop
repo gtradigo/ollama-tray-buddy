@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Ollama Tray Buddy
+Comment=Show Ollama status in the system tray
+Exec=ollama-tray-buddy
+Icon=ollama-tray-buddy
+Terminal=false
+Categories=Utility;Monitor;
+StartupNotify=false
